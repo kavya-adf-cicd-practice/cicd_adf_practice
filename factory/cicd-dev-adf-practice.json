@@ -1,0 +1,15 @@
+{
+	"name": "cicd-dev-adf-practice",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18e9d9c9-9a64-4514-b9f0-9d3a784759a5",
+		"tenantId": "5af130fe-dcb2-4733-b831-a64a5ee7184a"
+	}
+}
